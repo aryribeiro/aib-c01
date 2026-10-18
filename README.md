@@ -1,10 +1,10 @@
-# aib-c01
+# Exame AWS AIB-C01
 Repositório público para entrega de trabalho da DIO, sobre Gemini Notebook (NotebookLM)
 
-O tema e o objetivo, na frase que você escreveu no começo: **Exame AIB-C01 da AWS**
-As fontes que entraram, e por que você confia nelas: Simulados em PDF, confiáveis porque foram criados em cima do Guia do Exame e documentação oficial 2026.
-A diretriz de comportamento que você deu ao notebook: "atue como um segundo cérebro, especialista sênior em exame AWS AIB-C01"
-As perguntas que você fez, o que ele respondeu e de quais fontes: "quais são os domínios exigidos nesse exame?" **resposta:**
+* O tema e o objetivo, na frase que você escreveu no começo: **Exame AIB-C01 da AWS**
+* As fontes que entraram, e por que você confia nelas: Simulados em PDF, confiáveis porque foram criados em cima do Guia do Exame e documentação oficial 2026.
+* A diretriz de comportamento que você deu ao notebook: "atue como um segundo cérebro, especialista sênior em exame AWS AIB-C01"
+* As perguntas que você fez, o que ele respondeu e de quais fontes: "quais são os domínios exigidos nesse exame?" **resposta:**
 
 O exame **AWS Certified AI Business Strategist (AIB-C01)** é estruturado em **4 domínios de conteúdo principais**:
 
@@ -31,6 +31,6 @@ O exame **AWS Certified AI Business Strategist (AIB-C01)** é estruturado em **4
 * **Tipos de questão:** Múltipla escolha e Múltipla resposta (onde é necessário selecionar exatamente 2 alternativas corretas entre 5 para obter a pontuação da questão).
 
 ---
-O link do notebook compartilhado: https://notebook.google.com/notebook/217a6c24-50fa-4f91-8172-24cdc7f5c223
+* O link do notebook compartilhado: https://notebook.google.com/notebook/217a6c24-50fa-4f91-8172-24cdc7f5c223
 
 ---
